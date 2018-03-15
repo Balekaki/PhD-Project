@@ -8,3 +8,4 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
   - See HTML in the right
   - Magic
 
+Mores stuff to be addedded  -- but we need to know howe rjo fjfos fjsf
